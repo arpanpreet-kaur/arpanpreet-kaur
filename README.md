@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Arpanpreet Kaur 
 
-<!--
-**arpanpreet-kaur/arpanpreet-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MCA student with a strong foundation in HTML, CSS, JavaScript, and PHP  
+ Currently learning WordPress development (themes, plugins, PHP)  
+ Interested in backend development and open-source contribution  
 
-Here are some ideas to get you started:
+ Skills:
+- HTML5, CSS3, JavaScript
+- PHP, MySQL 
+- Git 
+- WordPress (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Projects:
+- Hospital Management System (Academic Project)
+- Personal Portfolio Website
+
+- Goal:
+To grow as a WordPress and full-stack developer by building real-world projects and contributing to open source.
