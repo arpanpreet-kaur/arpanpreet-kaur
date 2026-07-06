@@ -1,18 +1,30 @@
-Hi, I'm Arpanpreet Kaur 
+# Hi, I'm Arpanpreet Kaur 
 
- MCA graduate with a strong foundation in HTML, CSS, JavaScript, and PHP  
- Currently learning WordPress development (themes, plugins, PHP)  
- Interested in backend development and open-source contribution  
+## Full Stack Web Developer | MCA Graduate
 
- Skills:
-- HTML5, CSS3, JavaScript
-- PHP, MySQL 
-- Git 
- 
+I am an MCA graduate with practical experience in Full Stack Web Development. I enjoy building responsive, user-friendly web applications and continuously learning new technologies.
 
-- Projects:
-- Hospital Management System (Academic Project)
-- Personal Portfolio Website
+###  Technical Skills
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- PHP
+- MySQL
+- MongoDB
+- Git & GitHub
 
-- Goal:
-To grow as a WordPress and full-stack developer by building real-world projects and contributing to open source.
+###  Projects
+-  Online Portal for Agri-Business Management System
+-  Hospital Management System
+-  Personal Portfolio Website
+
+###  Internship
+Completed a 4-month Full Stack Web Development Internship with hands-on experience in frontend and backend development.
+
+###  Portfolio
+https://arpanpreet-kaur.github.io/personal-portfolio/
+
+###  Contact
+Email: arpangill324@gmail.com
